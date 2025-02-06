@@ -4,3 +4,21 @@ INFORMS at Pace University NYC:
 - Lesson Plans
 - Competitions
 - Resources
+
+__________
+
+## Python
+- 
+-
+
+## SQL
+-
+-
+
+## Excel
+-
+-
+
+## Tableau
+-
+-
